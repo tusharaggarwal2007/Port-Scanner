@@ -2,6 +2,8 @@
 
 A lightweight, high-performance cross-platform network port scanner built with **Python 🐍**, **Flet 📱**, and **ThreadPoolExecutor 🧵**. Features a sleek, hacker-inspired terminal UI with real-time status updates and multi-threaded concurrency.
 
+![App Screenshot](assets/screenshot.png)
+
 ## 🚀 Features
 
 * **Multi-Threaded Scanning ⚡:** Powered by a `ThreadPoolExecutor` pool (default 200 workers) for ultra-fast port evaluation and network testing.
