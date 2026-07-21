@@ -4,4 +4,4 @@ dist/
 __pycache__/
 .flet/
 .vscode/
-*.exe
+.exe
