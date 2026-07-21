@@ -1,15 +1,13 @@
-# ⚡ Terminal Port Scanner
+# ⚡ Port Scanner
 
 A lightweight, high-performance cross-platform network port scanner built with **Python**, **Flet**, and **ThreadPoolExecutor**. Features a sleek, hacker-inspired terminal UI with real-time status updates and multi-threaded concurrency.
-
-![App Screenshot](assets/screenshot.png)
 
 ## 🚀 Features
 
 * **Multi-Threaded Scanning:** Powered by a `ThreadPoolExecutor` pool (default 200 workers) for ultra-fast port evaluation.
 * **Real-Time UI Updates:** Thread-safe state management ensuring smooth performance without race conditions or UI crashes.
 * **Smart Filtering:** Instant toggle to show only open ports or a full report log.
-* **Hacker Aesthetic:** Designed with a dark terminal theme, neon green highlights, and custom Windows branding.
+* **Design:** Designed with a dark terminal theme, neon green highlights, and custom Windows branding.
 
 ---
 
@@ -25,11 +23,11 @@ A lightweight, high-performance cross-platform network port scanner built with *
 
 ### Prerequisites
 
-Make sure you have Python installed on your system. 
+Make sure you have Python 3.14+ installed on your system. 
 
 ### Installation & Execution
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tusharaggarwal2007/portscanner.git](https://github.com/tusharaggarwal2007/portscanner.git)
-   cd portcanner
+   git clone [https://github.com/tusharaggarwal2007/Port-Scanner.git](https://github.com/tusharaggarwal2007/Port-Scanner.git)
+   cd Port-Scanner
