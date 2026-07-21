@@ -5,3 +5,4 @@ __pycache__/
 .flet/
 .vscode/
 *.exe
+main.py
