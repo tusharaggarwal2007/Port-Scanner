@@ -65,5 +65,5 @@ python main.py
 ## ⬇️ Release
 
 1. For [Windows](https://github.com/tusharaggarwal2007/Port-Scanner/releases/download/v1.0.0/PortScanner.exe) (v1.0.0-pre-release)
-2. For [Android](https://github.com/tusharaggarwal2007/Port-Scanner/releases/download/v1.0.0/port_scanner.apk)
+2. For [Android](https://github.com/tusharaggarwal2007/Port-Scanner/releases/download/v1.0.0/port_scanner.apk) (v1.0.0-pre-release)
 3. For MacOs(soon)
